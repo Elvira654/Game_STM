@@ -1,7 +1,6 @@
-# Game
+# Game STM
 
-Overview
-Game-1 is a simple microcontroller-based game developed in C++ for the STM32F10x (ARM Cortex-M3) platform.
+Game STM is a simple microcontroller-based game developed in C++ for the STM32F10x (ARM Cortex-M3) platform.
 The game utilizes 7-segment displays and GPIO pins to show numbers, animations, and error codes directly on the hardware.
 
 The project demonstrates low-level programming with STM32 microcontrollers, including controlling GPIO outputs, generating random numbers, and creating basic visual effects.
